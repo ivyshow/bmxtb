@@ -1,5 +1,13 @@
 # PC电脑 - Windows
 
+## [注意事项](https://bmxcloud.fun/)
+
+[**已经好评的记得加售后QQ群979461290**](https://bmxcloud.fun/)
+
+[**有任何问题联系群管理员QQ** ](https://bmxcloud.fun/)
+
+[ **淘宝不做任何回复**](https://bmxcloud.fun/)\*\*\*\*
+
 ## 下载及安装
 
 ![&#x4E0B;&#x8F7D;&#x7684;&#x5B89;&#x88C5;&#x5305;&#x957F;&#x8FD9;&#x6837;&#xFF0C;&#x53CC;&#x51FB;&#x81EA;&#x52A8;&#x5B89;&#x88C5;](../.gitbook/assets/image-18.png)

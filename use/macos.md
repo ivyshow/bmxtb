@@ -1,5 +1,13 @@
 # 苹果电脑 - MacOS
 
+## [注意事项](https://bmxcloud.fun/)
+
+[**已经好评的记得加售后QQ群979461290**](https://bmxcloud.fun/)
+
+[**有任何问题联系群管理员QQ** ](https://bmxcloud.fun/)
+
+[ **淘宝不做任何回复**](https://bmxcloud.fun/)\*\*\*\*
+
 ![](../.gitbook/assets/image-70.png)
 
 ![](../.gitbook/assets/image%20%282%29.png)
