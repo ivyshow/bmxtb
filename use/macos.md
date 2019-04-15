@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/image-70.png)
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 ![](../.gitbook/assets/image-84.png)
 
