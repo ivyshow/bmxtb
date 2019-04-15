@@ -10,7 +10,7 @@
 
 #### 苹果手机：[在线安装1](https://bmxcloud.app/download/bmxios/index.html) \| [在线安装2](https://bmx168.com/download/bmxios/index.html)
 
-## [注册充值](https://bmx168.com/credit)
+## [注册充值](https://bmx168.com/credit)（续费客户请直接在网站充值）
 
 ## 使用教程
 
@@ -18,6 +18,8 @@
 * [安卓手机使用教程](https://bmx168.com/use/android)
 * [Windows电脑使用教程](https://bmx168.com/use/win)
 * [苹果电脑使用教程](https://bmx168.com/use/mac)
+
+
 
 
 
