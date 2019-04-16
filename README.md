@@ -1,6 +1,6 @@
 # 斑马线用户指南
 
-## 软件下载
+## 1.软件下载
 
 #### Windows：[蓝奏云](https://www.lanzous.com/i3sie2f) \| [百度云（提取码tm52）](https://pan.baidu.com/s/1KOt5hQg7XAaiItmJ7F8qHw)\| [本地下载1](https://bmxcloud.app/download/bmxcloud.win.exe) \| [本地下载2](https://bmx168.com/download/bmxcloud.win.exe)
 
@@ -10,9 +10,9 @@
 
 #### 苹果手机：[在线安装1](https://bmxcloud.app/download/bmxios/index.html) \| [在线安装2](https://bmx168.com/download/bmxios/index.html)
 
-## [注册充值](https://bmx168.com/credit.html)（续费客户请直接在网站充值）
+## 2.[注册充值教程](https://bmx168.com/credit.html)（续费客户请直接在网站充值）
 
-## 使用教程
+## 3.使用教程
 
 * [苹果手机使用教程](https://bmx168.com/use/ios.html)
 * [安卓手机使用教程](https://bmx168.com/use/android.html)
