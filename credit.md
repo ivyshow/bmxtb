@@ -10,27 +10,27 @@
 
 ## **注册流程（地址：**[**https://bmxcloud.fun**](https://bmxcloud.fun)**）**
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2858%29.png)
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2846%29.png)
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2854%29.png)
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%2829%29.png)
 
-![](.gitbook/assets/image%20%2812%29.png)
-
-![](.gitbook/assets/image%20%281%29.png)
-
-![](.gitbook/assets/image%20%288%29.png)
-
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image%20%2867%29.png)
 
 ![](.gitbook/assets/image%20%284%29.png)
+
+![](.gitbook/assets/image%20%2841%29.png)
+
+![](.gitbook/assets/image%20%282%29.png)
+
+![](.gitbook/assets/image%20%2828%29.png)
 
 ## 快速跳转使用教程（订购成功客户请忽略使用教程中的注册充值流程）
 

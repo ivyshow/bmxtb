@@ -1,4 +1,4 @@
-# 安卓手机 - Android
+# 安卓手机 - 斑马线App（老版）
 
 ## [注意事项](https://bmxcloud.fun/)
 
@@ -8,25 +8,15 @@
 
 [ **淘宝不做任何回复**](https://bmxcloud.fun/)\*\*\*\*
 
+## **APP下载**
+
+#### [点击下载](https://www.lanzous.com/i3sie3g)
+
+## **使用教程**
+
 ![](../.gitbook/assets/image-29.png)
 
 ![](../.gitbook/assets/image-45.png)
-
-![](../.gitbook/assets/image-71.png)
-
-![](../.gitbook/assets/image-81.png)
-
-![](../.gitbook/assets/image-31.png)
-
-![](../.gitbook/assets/image-69.png)
-
-![](../.gitbook/assets/image-4.png)
-
-![](../.gitbook/assets/image-54.png)
-
-![](../.gitbook/assets/image-82.png)
-
-![](../.gitbook/assets/image-17.png)
 
 ![](../.gitbook/assets/image-61.png)
 
