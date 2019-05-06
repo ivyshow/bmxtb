@@ -10,7 +10,7 @@
 
 ## **软件下载**
 
-#### [点击下载](https://www.lanzous.com/i3sie1e)
+#### [点击下载](https://www.lanzous.com/i41rn8d)
 
 ## **使用教程**
 
